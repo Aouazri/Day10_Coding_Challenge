@@ -1,2 +1,2 @@
-# Day10_Coding_Challenge
-Creating a Calculator in Python
+# Day10_Coding_Challenge_calculator
+This Python script implements a basic calculator program capable of performing addition, subtraction, multiplication, and division operations. It utilizes functions to define each arithmetic operation and stores them in a dictionary with their respective symbols as keys. The program prompts the user to input two numbers and choose an operation symbol. It then executes the selected operation and displays the result.
